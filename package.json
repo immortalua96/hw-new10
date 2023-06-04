@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "hw-new10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/immortalua96/goit-js-hw-10",
+  "homepage": "https://github.com/immortalua96/hw-new10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+    "build": "parcel build src/*.html --public-url /hw-new10/"
   },
   "repository": {
     "type": "git",
