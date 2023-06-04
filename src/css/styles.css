@@ -22,3 +22,6 @@ body {
 .item-cantry {
   cursor: pointer;
 }
+.breed-select {
+  width: 200px;
+}
